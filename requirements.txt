@@ -1,0 +1,11 @@
+# Versions are not pinned: install compatible versions for your environment.
+notebook
+nbclient
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+phik
+shap

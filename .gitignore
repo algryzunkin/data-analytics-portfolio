@@ -1,0 +1,10 @@
+# Private datasets (never commit)
+**/data/
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+.env
